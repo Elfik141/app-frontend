@@ -1,2 +1,2 @@
 # app-frontend
-App in React.js for backend app
+App in React Native for backend app
